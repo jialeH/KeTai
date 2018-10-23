@@ -1,0 +1,13 @@
+个模块所对应的包名名称-大家请在自己的对应模块下开发
+模块包名外面的文件是黄嘉乐创建的Test代码。项目部署后请运行一下测试
+测试代码访问路径http://localhost:8080/login.jsp如果你是用myeclipse或eclipse请自行加上你的项目名称
+
+pointtoquery《==============点到查询
+platformmessage《===========平台消息
+informationviewingarea《====信息查看区
+datamanagementarea《========资料管理区
+advancedmanagementarea《====高级管理区
+classmanagement《===========班级管理
+informationstatistics《=====信息统计
+homeschoolcontact《=========家校联系
+systemManagement《==========系统管理
